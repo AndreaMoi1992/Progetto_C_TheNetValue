@@ -1,0 +1,3 @@
+C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/CMakeFiles/Progetto_C_Moi_Andrea.dir
+C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/CMakeFiles/rebuild_cache.dir

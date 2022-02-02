@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Progetto_C_Moi_Andrea"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Progetto_C_Moi_Andrea">
+				<Option output="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/Progetto_C_Moi_Andrea.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/Makefile&quot;  VERBOSE=1 Progetto_C_Moi_Andrea"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Progetto_C_Moi_Andrea/fast">
+				<Option output="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/Progetto_C_Moi_Andrea.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/Makefile&quot;  VERBOSE=1 Progetto_C_Moi_Andrea/fast"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/Confronta_Record.c">
+			<Option target="Progetto_C_Moi_Andrea"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/Confronta_Record.h">
+			<Option target="Progetto_C_Moi_Andrea"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/Cripta_Decripta_vettore.c">
+			<Option target="Progetto_C_Moi_Andrea"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/Cripta_Decripta_vettore.h">
+			<Option target="Progetto_C_Moi_Andrea"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/Elimina_criminale.c">
+			<Option target="Progetto_C_Moi_Andrea"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/Elimina_criminale.h">
+			<Option target="Progetto_C_Moi_Andrea"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/Generazione_casuale.c">
+			<Option target="Progetto_C_Moi_Andrea"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/Generazione_casuale.h">
+			<Option target="Progetto_C_Moi_Andrea"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/Inserisci_record.c">
+			<Option target="Progetto_C_Moi_Andrea"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/Inserisci_record.h">
+			<Option target="Progetto_C_Moi_Andrea"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/Ordine_Alfabetico.c">
+			<Option target="Progetto_C_Moi_Andrea"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/Ordine_Alfabetico.h">
+			<Option target="Progetto_C_Moi_Andrea"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/Stampa.c">
+			<Option target="Progetto_C_Moi_Andrea"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/Stampa.h">
+			<Option target="Progetto_C_Moi_Andrea"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/inizializzazione.c">
+			<Option target="Progetto_C_Moi_Andrea"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/inizializzazione.h">
+			<Option target="Progetto_C_Moi_Andrea"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/main.c">
+			<Option target="Progetto_C_Moi_Andrea"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/Documents/TVN/Progetto_C_FINITO/Progetto_C_Moi_Andrea_FINITO/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
